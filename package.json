@@ -1,0 +1,15 @@
+{
+  "name": "node-default-backend",
+  "version": "0.0.1",
+  "description": "Really simple backend",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paralin/node-default-backend.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
